@@ -1,0 +1,1206 @@
+s
+a 5277634 Bożydar Marcinkowski
+a 7531944 Bożydar Zięba
+a 8790951 Zuza Ławrynowicz
+a 2107006 Arek Sekielski
+a 1990417 Arek Komorżydrowski
+a 7813091 Arek Marcinkowski
+a 5951185 Adam Zięba
+a 6291836 Marcin Ławrynowicz
+a 4624172 Adam Komorżydrowski
+a 4934359 Bożydar Winotuski
+a 4551904 Łukasz Zięba
+a 5991464 Ewa Kowalski
+a 1742837 Ewa Kowalski
+a 8857458 Arek Morozowski
+a 7651277 Marcin Marcinkowski
+a 9625064 Helga Zięba
+a 3239008 Marcin Marcinkowski
+a 2861696 Arek Żyła
+a 7402926 Marcin Morozowski
+a 4613222 Arek Winotuski
+a 5895870 Helga Marcinkowski
+a 1859161 Łukasz Zięba
+a 9998076 Adam Żeromski
+a 9032310 Arek Sekielski
+a 7902106 Bożydar Morozowski
+a 5757080 Zuza Winotuski
+a 2407203 Ewa Kowalski
+a 2488167 Marcin Ławrynowicz
+a 8105101 Arek Żeromski
+a 4322816 Helga Marcinkowski
+a 3946888 Marcin Kowalski
+a 5676132 Marcin Zięba
+a 8878765 Łukasz Morozowski
+a 5810670 Marcin Zięba
+a 9043069 Bożydar Sekielski
+a 8053131 Łukasz Żyła
+a 9455589 Ola Winotuski
+a 5162712 Arek Sekielski
+a 2974723 Marcin Marcinkowski
+a 4773505 Zuza Żyła
+a 7668153 Jan Morozowski
+a 9765110 Marcin Zięba
+a 8678104 Arek Żeromski
+a 8906758 Zuza Marcinkowski
+a 1135189 Ewa Winotuski
+a 3911617 Marcin Marcinkowski
+a 7622307 Łukasz Komorżydrowski
+a 8428967 Ola Sekielski
+a 5656410 Bożydar Marcinkowski
+a 1618196 Jan Marcinkowski
+a 2553483 Ewa Kowalski
+a 1558078 Jan Żyła
+a 8046805 Helga Kowalski
+a 8616879 Bożydar Żyła
+a 3107660 Adam Winotuski
+a 1613377 Zuza Żeromski
+a 5370349 Jan Kowalski
+a 7130983 Zuza Morozowski
+a 8815893 Marcin Ławrynowicz
+a 8069795 Zuza Morozowski
+a 9414506 Helga Kowalski
+a 5982166 Ola Winotuski
+a 5660322 Bożydar Kowalski
+a 6008721 Marcin Ławrynowicz
+a 2264138 Helga Sekielski
+a 6587209 Bożydar Morozowski
+a 9484332 Adam Żeromski
+a 9674256 Jan Marcinkowski
+a 4652190 Ewa Morozowski
+a 4685229 Ola Winotuski
+a 1005563 Zuza Sekielski
+a 1419462 Jan Morozowski
+a 1746359 Zuza Marcinkowski
+a 3380440 Łukasz Zięba
+a 1210813 Marcin Winotuski
+a 5975211 Ewa Żeromski
+a 5697731 Jan Marcinkowski
+a 2978632 Łukasz Zięba
+a 5449646 Bożydar Marcinkowski
+a 1317716 Ewa Żyła
+a 9856147 Helga Żyła
+a 9875363 Arek Żyła
+a 1719573 Bożydar Morozowski
+a 4321669 Ola Sekielski
+a 9574333 Zuza Sekielski
+a 4062493 Jan Komorżydrowski
+a 3944124 Jan Kowalski
+a 8114507 Jan Marcinkowski
+a 5161856 Bożydar Kowalski
+a 7047277 Zuza Komorżydrowski
+a 6905330 Marcin Morozowski
+a 1908412 Adam Ławrynowicz
+a 5363171 Marcin Ławrynowicz
+a 2857491 Marcin Sekielski
+a 3152791 Adam Marcinkowski
+a 4436122 Łukasz Kowalski
+a 3271034 Adam Komorżydrowski
+a 9754840 Ewa Marcinkowski
+a 9875924 Helga Winotuski
+a 7540908 Ewa Sekielski
+a 9642418 Helga Żyła
+a 4324538 Zuza Zięba
+a 4078278 Helga Kowalski
+a 9489035 Adam Morozowski
+a 1931193 Arek Sekielski
+a 2831768 Marcin Żeromski
+a 4587235 Jan Sekielski
+a 9336957 Helga Kowalski
+a 5675856 Adam Ławrynowicz
+a 2611502 Ola Ławrynowicz
+a 3265234 Ewa Ławrynowicz
+a 8776126 Bożydar Żyła
+a 7217017 Zuza Komorżydrowski
+a 2175490 Bożydar Marcinkowski
+a 2441615 Ola Zięba
+a 7338806 Ewa Zięba
+a 2818499 Ola Komorżydrowski
+a 8342052 Bożydar Morozowski
+a 7246387 Helga Sekielski
+a 4606907 Ola Zięba
+a 4235322 Marcin Żeromski
+a 8026688 Bożydar Winotuski
+a 7576207 Arek Marcinkowski
+a 8301738 Ola Morozowski
+a 9548168 Bożydar Żeromski
+a 7677395 Adam Komorżydrowski
+a 1398357 Marcin Żyła
+a 4200196 Łukasz Winotuski
+a 9038592 Bożydar Żeromski
+a 7192226 Ola Sekielski
+a 5780712 Bożydar Zięba
+a 6020855 Arek Komorżydrowski
+a 1613834 Ewa Sekielski
+a 2888580 Helga Winotuski
+a 6516439 Ewa Winotuski
+a 6719371 Arek Żeromski
+a 4156377 Adam Winotuski
+a 3523328 Helga Sekielski
+a 6791688 Ewa Winotuski
+a 4808485 Łukasz Zięba
+a 8163424 Bożydar Ławrynowicz
+a 1134445 Łukasz Żeromski
+a 3620524 Marcin Żeromski
+a 5283199 Adam Ławrynowicz
+a 2788291 Łukasz Winotuski
+a 9996202 Marcin Sekielski
+a 9224811 Arek Morozowski
+a 8479285 Jan Morozowski
+a 2081279 Ewa Ławrynowicz
+a 1461376 Marcin Żyła
+a 3755682 Marcin Żyła
+a 4298125 Ola Sekielski
+a 4324155 Arek Sekielski
+a 1851397 Arek Zięba
+a 1794313 Adam Kowalski
+a 4789967 Helga Sekielski
+a 4379378 Adam Zięba
+a 5221102 Jan Żeromski
+a 5965795 Marcin Kowalski
+a 1769589 Jan Zięba
+a 9629804 Arek Komorżydrowski
+a 1644383 Adam Winotuski
+a 6257879 Jan Zięba
+a 9095068 Arek Żyła
+a 2630805 Helga Żyła
+a 8054594 Ewa Morozowski
+a 9859504 Łukasz Sekielski
+a 1545900 Ola Winotuski
+a 9901536 Ewa Żeromski
+a 4331785 Ewa Winotuski
+a 2880709 Adam Zięba
+a 6037342 Adam Ławrynowicz
+a 4760470 Arek Komorżydrowski
+a 7773014 Zuza Morozowski
+a 2398039 Zuza Kowalski
+a 5032310 Adam Morozowski
+a 2387859 Zuza Ławrynowicz
+a 9248585 Jan Sekielski
+a 9640590 Adam Sekielski
+a 3726450 Jan Sekielski
+a 7614750 Łukasz Sekielski
+a 2139772 Jan Morozowski
+a 5054726 Łukasz Morozowski
+a 1849994 Łukasz Sekielski
+a 6477680 Jan Sekielski
+a 1317686 Jan Sekielski
+a 1316023 Adam Ławrynowicz
+a 1112980 Zuza Kowalski
+a 9292171 Arek Ławrynowicz
+a 1793692 Bożydar Winotuski
+a 7244527 Ola Komorżydrowski
+a 1911460 Jan Kowalski
+a 1156821 Ola Komorżydrowski
+a 3820848 Ewa Komorżydrowski
+a 3026696 Zuza Winotuski
+a 4949561 Jan Sekielski
+a 7240470 Jan Ławrynowicz
+a 9007702 Łukasz Morozowski
+a 1961470 Marcin Komorżydrowski
+a 8458957 Ewa Ławrynowicz
+a 2245216 Arek Zięba
+a 2827674 Jan Winotuski
+a 1297352 Ewa Sekielski
+a 1033722 Helga Ławrynowicz
+a 1752800 Zuza Morozowski
+a 5551341 Ewa Winotuski
+a 5904551 Adam Komorżydrowski
+a 2143932 Łukasz Ławrynowicz
+a 4107417 Jan Komorżydrowski
+a 6265330 Arek Morozowski
+a 2561025 Adam Żyła
+a 2017246 Zuza Morozowski
+a 2715469 Jan Zięba
+a 4290334 Arek Zięba
+a 3891308 Arek Sekielski
+a 5444356 Arek Kowalski
+a 6106324 Ola Kowalski
+a 4159286 Ola Kowalski
+a 6397409 Ewa Komorżydrowski
+a 4301174 Jan Morozowski
+a 5728525 Zuza Ławrynowicz
+a 4479356 Ola Marcinkowski
+a 1975896 Łukasz Żeromski
+a 2838458 Bożydar Winotuski
+a 4989594 Jan Sekielski
+a 9549280 Ola Morozowski
+a 3247889 Ola Zięba
+a 5016147 Helga Kowalski
+a 7460384 Jan Zięba
+a 6132678 Arek Żyła
+a 9130147 Zuza Kowalski
+a 8176387 Łukasz Ławrynowicz
+a 7382017 Marcin Komorżydrowski
+a 5218605 Adam Sekielski
+a 1676971 Ewa Żeromski
+a 5942213 Adam Sekielski
+a 3946131 Marcin Marcinkowski
+a 2895380 Jan Winotuski
+a 2017752 Ewa Żyła
+a 2433249 Łukasz Komorżydrowski
+a 1563444 Łukasz Marcinkowski
+a 6023909 Ola Ławrynowicz
+a 4548931 Helga Żyła
+a 2566095 Jan Żeromski
+a 8771593 Ola Sekielski
+a 3326002 Arek Winotuski
+a 3898217 Jan Marcinkowski
+a 5828603 Arek Winotuski
+a 3609739 Ola Kowalski
+a 6191147 Arek Marcinkowski
+a 2011291 Helga Żeromski
+a 9158806 Jan Marcinkowski
+a 4306178 Ola Morozowski
+a 6643603 Łukasz Ławrynowicz
+a 8730037 Arek Żeromski
+a 8607034 Helga Ławrynowicz
+a 5842145 Łukasz Żyła
+a 4717405 Marcin Winotuski
+a 1065828 Bożydar Winotuski
+a 4296247 Zuza Winotuski
+a 6224466 Łukasz Sekielski
+a 8202541 Zuza Ławrynowicz
+a 2538613 Ewa Winotuski
+a 6621018 Ola Kowalski
+a 9959240 Łukasz Zięba
+a 6460215 Jan Sekielski
+a 7861789 Helga Kowalski
+a 2076255 Łukasz Żyła
+a 9448585 Marcin Morozowski
+a 3688719 Helga Marcinkowski
+a 1727881 Jan Żyła
+a 7617310 Ola Zięba
+a 4494829 Arek Sekielski
+a 2152084 Adam Żyła
+a 8062920 Marcin Kowalski
+a 7794976 Jan Komorżydrowski
+a 7107068 Bożydar Ławrynowicz
+a 7812962 Bożydar Ławrynowicz
+a 8304631 Jan Zięba
+a 8093588 Zuza Sekielski
+a 6697123 Bożydar Sekielski
+a 7312555 Zuza Komorżydrowski
+a 2449405 Bożydar Morozowski
+a 3309738 Marcin Żeromski
+a 3515273 Ewa Zięba
+a 2808208 Jan Marcinkowski
+a 3480581 Ewa Żyła
+a 2099809 Łukasz Morozowski
+a 5741187 Bożydar Morozowski
+a 9375751 Bożydar Ławrynowicz
+a 1922200 Bożydar Sekielski
+a 5344976 Helga Ławrynowicz
+a 8672910 Adam Marcinkowski
+a 9311109 Łukasz Marcinkowski
+a 1603111 Łukasz Zięba
+a 6630602 Arek Zięba
+a 9217403 Ewa Morozowski
+a 9030645 Helga Żyła
+a 1900396 Ewa Winotuski
+a 6474074 Ola Marcinkowski
+a 6411412 Marcin Żeromski
+a 9110591 Jan Żeromski
+a 2825755 Zuza Sekielski
+a 2249891 Jan Komorżydrowski
+a 9141091 Zuza Ławrynowicz
+a 4694381 Jan Sekielski
+a 7475999 Zuza Kowalski
+a 3274840 Marcin Sekielski
+a 4762097 Arek Kowalski
+a 5054008 Zuza Kowalski
+a 4634010 Ewa Żeromski
+a 1291971 Zuza Komorżydrowski
+a 8747934 Zuza Ławrynowicz
+a 9998147 Marcin Sekielski
+a 3744473 Marcin Sekielski
+a 5130973 Adam Sekielski
+a 5441997 Bożydar Winotuski
+a 5646417 Adam Zięba
+a 8617657 Helga Żeromski
+a 7582344 Zuza Ławrynowicz
+a 2267540 Jan Morozowski
+a 6800364 Bożydar Komorżydrowski
+a 5334732 Adam Marcinkowski
+a 2302155 Ewa Winotuski
+a 5221654 Ewa Sekielski
+a 2553188 Arek Sekielski
+a 9848555 Bożydar Komorżydrowski
+a 8530826 Ola Komorżydrowski
+a 2859949 Zuza Żeromski
+a 8395487 Bożydar Winotuski
+a 1446300 Arek Marcinkowski
+a 5814882 Bożydar Kowalski
+a 1487836 Arek Morozowski
+a 4147725 Marcin Zięba
+a 2035796 Jan Sekielski
+a 6569322 Adam Winotuski
+a 8210433 Ewa Żyła
+a 8859893 Zuza Zięba
+a 5636500 Marcin Winotuski
+a 1230635 Arek Kowalski
+a 5026531 Helga Żyła
+a 3843602 Arek Marcinkowski
+a 4219707 Ewa Zięba
+a 6212270 Arek Żyła
+a 1594790 Helga Zięba
+a 6244338 Ewa Winotuski
+a 5399810 Helga Żeromski
+a 8346121 Ola Komorżydrowski
+a 5290562 Marcin Ławrynowicz
+a 4960925 Ewa Żyła
+a 7693638 Marcin Sekielski
+a 1628957 Jan Marcinkowski
+a 2887210 Zuza Ławrynowicz
+a 4042457 Ola Marcinkowski
+a 4138561 Zuza Sekielski
+a 2090290 Łukasz Sekielski
+a 1514517 Łukasz Żeromski
+a 1690629 Marcin Sekielski
+a 3832780 Adam Ławrynowicz
+a 8813942 Jan Marcinkowski
+a 8272364 Bożydar Zięba
+a 8962920 Łukasz Zięba
+a 7489973 Arek Morozowski
+a 7265334 Ola Żyła
+a 5926520 Helga Morozowski
+a 4221446 Ewa Zięba
+a 3431461 Arek Komorżydrowski
+a 3985479 Jan Marcinkowski
+a 3441824 Łukasz Sekielski
+a 5815064 Ola Ławrynowicz
+a 1765380 Helga Komorżydrowski
+a 9286342 Helga Komorżydrowski
+a 8571059 Ola Sekielski
+a 2930673 Zuza Kowalski
+a 5394857 Ewa Winotuski
+a 6511220 Bożydar Sekielski
+a 9757743 Łukasz Zięba
+a 5542935 Adam Sekielski
+a 9674413 Zuza Komorżydrowski
+a 1931386 Ewa Winotuski
+a 2419621 Ola Komorżydrowski
+a 1656056 Arek Kowalski
+a 1030865 Ewa Kowalski
+a 8890103 Marcin Zięba
+a 4820446 Helga Morozowski
+a 1605478 Helga Żeromski
+a 4172764 Adam Winotuski
+a 1679630 Ewa Ławrynowicz
+a 5311053 Ola Żeromski
+a 1585509 Adam Marcinkowski
+a 3988178 Adam Winotuski
+a 8487109 Ewa Sekielski
+a 7467891 Łukasz Winotuski
+a 1782371 Jan Żeromski
+a 2126934 Łukasz Winotuski
+a 7294242 Ewa Ławrynowicz
+a 5444073 Marcin Żeromski
+a 1386732 Marcin Komorżydrowski
+a 5916081 Adam Żyła
+a 9054186 Łukasz Komorżydrowski
+t
+s
+f 8053131
+f 1135189
+f 9336957
+f 9130147
+f 9901536
+f 1419462
+f 9674413
+f 1990417
+f 1563444
+f 8163424
+f 7902106
+f 4960925
+f 1727881
+f 4379378
+f 2553483
+f 3152791
+f 7622307
+f 5757080
+f 4808485
+f 5780712
+f 9455589
+f 3523328
+f 2419621
+f 8857458
+f 1900396
+f 4321669
+f 3026696
+f 2538613
+f 9484332
+f 8272364
+f 2859949
+f 9754840
+f 5916081
+f 2553188
+f 6511220
+f 5965795
+f 5982166
+f 9574333
+f 5444356
+f 9548168
+f 9875363
+f 2081279
+f 2387859
+f 9038592
+f 9998147
+f 7668153
+f 3832780
+f 8176387
+f 1922200
+f 1065828
+f 7475999
+f 3431461
+f 1134445
+f 4760470
+f 1317686
+f 5904551
+f 2449405
+f 8093588
+f 6106324
+f 1765380
+f 7794976
+f 1679630
+f 5277634
+f 1742837
+f 9248585
+f 1605478
+f 9549280
+f 7467891
+f 8301738
+f 2895380
+f 5815064
+f 2152084
+f 2267540
+f 8062920
+f 1752800
+f 7614750
+f 1793692
+f 8458957
+f 2561025
+f 1297352
+f 2611502
+f 6460215
+f 3820848
+f 5828603
+f 1719573
+f 4773505
+f 2398039
+f 5370349
+f 6291836
+f 2630805
+f 5975211
+f 4694381
+f 1656056
+f 1628957
+f 8730037
+f 5363171
+f 5441997
+f 8487109
+f 6037342
+f 2302155
+f 6697123
+f 9859504
+f 4717405
+f 1033722
+f 3480581
+f 5311053
+f 2245216
+f 7540908
+f 8747934
+f 6905330
+f 5842145
+f 7813091
+f 1908412
+f 1585509
+f 8054594
+f 7617310
+f 9757743
+f 3441824
+f 2488167
+f 3380440
+f 1461376
+f 2831768
+f 9030645
+f 8859893
+f 6257879
+f 2788291
+f 4949561
+f 8479285
+f 6191147
+f 9642418
+f 1030865
+f 5814882
+f 9110591
+f 5221102
+f 4156377
+f 1618196
+f 6411412
+f 9848555
+f 4989594
+f 2880709
+f 3609739
+f 7582344
+f 1210813
+f 1690629
+f 3274840
+f 2974723
+f 9286342
+f 1849994
+f 1594790
+f 3726450
+f 4078278
+f 4306178
+f 8962920
+f 2857491
+f 7460384
+f 4587235
+f 4301174
+f 4324155
+f 7576207
+f 5162712
+f 5130973
+f 1316023
+f 9998076
+f 8346121
+f 5951185
+f 9311109
+f 9054186
+f 2838458
+f 9375751
+f 9625064
+f 4652190
+f 2715469
+f 4494829
+f 3271034
+f 1931386
+f 1782371
+f 2099809
+f 2126934
+f 4296247
+f 1644383
+f 4322816
+f 5334732
+f 9996202
+f 8771593
+f 7246387
+f 3985479
+f 1794313
+f 4147725
+f 4042457
+f 4548931
+f 9674256
+f 1230635
+f 4551904
+f 2441615
+f 2011291
+f 2407203
+f 8813942
+f 9414506
+f 1156821
+f 9489035
+f 9765110
+f 8890103
+f 5660322
+f 1291971
+f 7693638
+f 1961470
+f 2887210
+f 9043069
+f 9217403
+f 8202541
+f 3843602
+f 9095068
+f 3688719
+f 7531944
+f 1613834
+f 3309738
+f 5636500
+f 6008721
+f 5016147
+f 6630602
+f 5646417
+f 6791688
+f 5542935
+f 2249891
+f 1613377
+f 4789967
+f 9856147
+f 1769589
+f 6569322
+f 6265330
+f 8342052
+f 7402926
+f 5221654
+f 1398357
+f 1859161
+f 8571059
+f 2825755
+f 2861696
+f 9448585
+f 8672910
+f 3239008
+f 5551341
+f 5741187
+f 5697731
+f 5926520
+f 1446300
+f 1603111
+f 6474074
+f 3744473
+f 1851397
+f 4634010
+f 3946888
+f 4235322
+f 4934359
+f 3944124
+f 6224466
+f 6800364
+f 4172764
+f 8617657
+f 4479356
+f 5449646
+f 8210433
+f 1558078
+f 1911460
+f 6516439
+f 5054008
+f 9640590
+f 5032310
+f 9629804
+f 3755682
+f 5054726
+f 7047277
+f 7651277
+f 7812962
+f 6643603
+f 4298125
+f 4221446
+f 4062493
+f 5728525
+f 8046805
+f 5344976
+f 1112980
+f 2017752
+f 2264138
+f 4606907
+f 3326002
+f 9032310
+f 9875924
+f 7192226
+f 6621018
+f 4138561
+f 2808208
+f 7265334
+f 9141091
+f 8069795
+f 6587209
+f 8776126
+f 4820446
+f 9224811
+f 7861789
+f 3247889
+f 5895870
+f 8530826
+f 2818499
+f 6212270
+f 6477680
+f 1746359
+f 2090290
+f 8878765
+f 5399810
+f 3515273
+f 3898217
+f 1931193
+f 8114507
+f 2888580
+f 2827674
+f 4159286
+f 7244527
+f 4436122
+f 8616879
+f 7338806
+f 6020855
+f 6719371
+f 5676132
+f 5656410
+f 4324538
+f 2175490
+f 8428967
+f 2566095
+f 5394857
+f 4331785
+f 3891308
+f 4200196
+f 5942213
+f 3265234
+f 7382017
+f 3946131
+f 8678104
+f 5161856
+f 8304631
+f 9007702
+f 1386732
+f 5218605
+f 7773014
+f 5026531
+f 5283199
+f 7217017
+f 2139772
+f 8790951
+f 7130983
+f 7240470
+f 2433249
+f 2017246
+f 1676971
+f 5810670
+f 8026688
+f 5444073
+f 4762097
+f 2978632
+f 2035796
+f 8607034
+f 6023909
+f 1487836
+f 3107660
+f 5290562
+f 4219707
+f 8906758
+f 5675856
+f 9292171
+f 8395487
+f 4624172
+f 7489973
+f 4107417
+f 8815893
+f 1317716
+f 2107006
+f 7107068
+f 6132678
+f 6244338
+f 9158806
+f 7294242
+f 8105101
+f 3988178
+f 2930673
+f 3911617
+f 2143932
+f 6397409
+f 3620524
+f 4685229
+f 1545900
+f 4613222
+f 1005563
+f 5991464
+f 2076255
+f 7312555
+f 1514517
+f 4290334
+f 7677395
+f 9959240
+f 1975896
+t
+s
+d 4548931
+d 4301174
+d 3898217
+d 1563444
+d 8813942
+d 9754840
+d 5926520
+d 9292171
+d 1594790
+d 8210433
+d 4324155
+d 1727881
+d 2788291
+d 6397409
+d 9030645
+d 4934359
+d 7192226
+d 2895380
+d 7651277
+d 8730037
+d 3107660
+d 1752800
+d 5942213
+d 2827674
+d 1746359
+d 9959240
+d 1446300
+d 5221102
+d 8301738
+d 4820446
+d 5895870
+d 2974723
+d 1719573
+d 4219707
+d 5660322
+d 8617657
+d 1585509
+d 7617310
+d 8878765
+d 9110591
+d 5757080
+d 2398039
+d 2076255
+d 8202541
+d 5444356
+d 5646417
+d 2017246
+d 1386732
+d 7677395
+d 1210813
+d 1922200
+d 8859893
+d 4760470
+d 9217403
+d 5904551
+d 1135189
+d 2245216
+d 2978632
+d 5728525
+d 4296247
+d 2302155
+d 8487109
+d 4290334
+d 4235322
+d 2035796
+d 4717405
+d 2553483
+d 8747934
+d 7107068
+d 9043069
+d 4147725
+d 8790951
+d 5444073
+d 3744473
+d 2081279
+d 3441824
+d 5551341
+d 2090290
+d 3620524
+d 4306178
+d 8114507
+d 2264138
+d 5290562
+d 3944124
+d 1398357
+d 5344976
+d 1911460
+d 6621018
+d 1033722
+d 1859161
+d 7338806
+d 8428967
+d 8678104
+d 3891308
+d 9574333
+d 9286342
+d 6643603
+d 3726450
+d 1769589
+d 9455589
+d 1613834
+d 4606907
+d 1931193
+d 8046805
+d 3271034
+d 9032310
+d 6008721
+d 9038592
+d 3832780
+d 5441997
+d 4379378
+d 4200196
+d 9007702
+d 1900396
+d 6569322
+d 9095068
+d 6265330
+d 9054186
+d 8616879
+d 1603111
+d 2107006
+d 4172764
+d 1961470
+d 5363171
+d 7622307
+d 4613222
+d 1975896
+d 2387859
+d 3820848
+d 6460215
+d 4324538
+d 8672910
+d 3515273
+d 9757743
+d 7813091
+d 1656056
+d 8054594
+d 9625064
+d 4762097
+d 8458957
+d 8342052
+d 3688719
+d 2566095
+d 9901536
+d 6212270
+d 8530826
+d 4479356
+d 3985479
+d 2441615
+d 1065828
+d 9336957
+d 2859949
+d 4989594
+d 3911617
+d 3247889
+d 4773505
+d 9674256
+d 3274840
+d 8479285
+d 2126934
+d 2715469
+d 2930673
+d 2880709
+d 1618196
+d 2831768
+d 7265334
+d 6477680
+d 2818499
+d 8093588
+d 1794313
+d 9856147
+d 4685229
+d 4789967
+d 1679630
+d 5982166
+d 8105101
+d 4808485
+d 1849994
+d 9549280
+d 2407203
+d 4078278
+d 8176387
+d 3946888
+d 9875924
+d 1487836
+d 4960925
+d 2017752
+d 4634010
+d 1230635
+d 5542935
+d 1931386
+d 4322816
+d 1908412
+d 5283199
+d 9158806
+d 5780712
+d 3988178
+d 3946131
+d 8346121
+d 1742837
+d 7312555
+d 3265234
+d 8857458
+d 7614750
+d 8062920
+d 5130973
+d 4551904
+d 7047277
+d 4624172
+d 9875363
+d 1851397
+d 7467891
+d 1317686
+d 6411412
+d 5810670
+d 6516439
+d 8771593
+d 8815893
+d 2152084
+d 1112980
+d 5675856
+d 7475999
+d 1690629
+d 8272364
+d 4331785
+d 8026688
+d 7531944
+d 5016147
+d 8906758
+d 4652190
+d 4694381
+d 9998076
+d 6224466
+d 5334732
+d 6257879
+d 4107417
+d 6291836
+d 9224811
+d 3239008
+d 2249891
+d 6244338
+d 7861789
+d 8053131
+d 3480581
+d 7217017
+d 1297352
+d 8607034
+d 6587209
+d 5277634
+d 6474074
+d 5449646
+d 9414506
+d 2861696
+d 7244527
+d 2857491
+d 7130983
+d 5370349
+d 5828603
+d 5697731
+d 8163424
+d 4221446
+d 7540908
+d 4062493
+d 4587235
+d 5656410
+d 2143932
+d 8962920
+d 5311053
+d 7246387
+d 1545900
+d 9640590
+d 6511220
+d 7576207
+d 7294242
+d 9448585
+d 1316023
+d 7460384
+d 9848555
+d 1765380
+d 6106324
+d 8776126
+d 5815064
+d 4159286
+d 1156821
+d 1605478
+d 2838458
+d 9674413
+d 8395487
+d 2808208
+d 2433249
+d 1419462
+d 2887210
+d 4042457
+d 6800364
+d 7812962
+d 5026531
+d 1317716
+d 6630602
+d 2825755
+d 1644383
+d 7668153
+d 4156377
+d 1461376
+d 2175490
+d 9130147
+d 1990417
+d 5951185
+d 7382017
+d 9859504
+d 5218605
+d 1613377
+d 5221654
+d 5636500
+d 1030865
+d 2888580
+d 6791688
+d 3326002
+d 9629804
+d 1782371
+d 2099809
+d 6191147
+d 5741187
+d 4298125
+d 1134445
+d 2630805
+d 4436122
+d 2449405
+d 5032310
+d 6719371
+d 5814882
+d 7794976
+d 1558078
+d 6023909
+d 1793692
+d 9484332
+d 9642418
+d 6020855
+d 8304631
+d 5162712
+d 7693638
+d 7489973
+d 5965795
+d 3152791
+d 5842145
+d 9765110
+d 9311109
+d 1514517
+d 5394857
+d 2419621
+d 6037342
+d 5054008
+d 2538613
+d 5975211
+d 5161856
+d 8069795
+d 6697123
+d 8571059
+d 9248585
+d 5054726
+d 1676971
+d 9489035
+d 6132678
+d 9375751
+d 3026696
+d 1628957
+d 9996202
+d 4949561
+d 5399810
+d 9998147
+d 2561025
+d 5676132
+d 3843602
+d 4138561
+d 5916081
+d 2011291
+d 7773014
+d 3431461
+d 6905330
+d 2488167
+d 7402926
+d 9141091
+d 2611502
+d 7902106
+d 3523328
+d 9548168
+d 1005563
+d 2267540
+d 4494829
+d 7582344
+d 3609739
+d 3309738
+d 4321669
+d 3755682
+d 5991464
+d 2139772
+d 2553188
+d 8890103
+d 1291971
+d 7240470
+d 3380440
+t

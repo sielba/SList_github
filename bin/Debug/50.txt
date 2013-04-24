@@ -1,0 +1,156 @@
+s
+a 3467215 Jan Komorżydrowski
+a 4716382 Bożydar Kowalski
+a 8761473 Bożydar Sekielski
+a 5431518 Arek Winotuski
+a 4971452 Ola Żyła
+a 1309377 Adam Kowalski
+a 4745930 Ewa Żyła
+a 8212270 Ola Żeromski
+a 8058934 Ola Zięba
+a 3149670 Ola Komorżydrowski
+a 9885698 Marcin Żyła
+a 5230842 Ewa Komorżydrowski
+a 3677779 Bożydar Ławrynowicz
+a 9763336 Zuza Zięba
+a 6892332 Helga Marcinkowski
+a 6263565 Ewa Ławrynowicz
+a 8816924 Łukasz Morozowski
+a 2355319 Arek Żeromski
+a 3577151 Bożydar Marcinkowski
+a 8891161 Łukasz Kowalski
+a 2562862 Arek Komorżydrowski
+a 7910503 Łukasz Zięba
+a 5953923 Helga Żeromski
+a 5056002 Ewa Kowalski
+a 7951910 Jan Morozowski
+a 5525969 Łukasz Zięba
+a 8333784 Adam Zięba
+a 6193716 Zuza Kowalski
+a 7280595 Arek Sekielski
+a 9173888 Jan Marcinkowski
+a 9188109 Helga Marcinkowski
+a 6111339 Łukasz Kowalski
+a 5947263 Bożydar Zięba
+a 5499164 Ewa Komorżydrowski
+a 9274915 Ewa Ławrynowicz
+a 7785471 Arek Sekielski
+a 7303694 Arek Marcinkowski
+a 8840753 Ola Komorżydrowski
+a 5733781 Adam Żyła
+a 9626148 Arek Morozowski
+a 4497091 Łukasz Winotuski
+a 6357290 Ola Winotuski
+a 3001552 Jan Kowalski
+a 6694810 Zuza Kowalski
+a 4944336 Bożydar Morozowski
+a 2335759 Zuza Komorżydrowski
+a 6412658 Zuza Morozowski
+a 7856335 Bożydar Marcinkowski
+a 9896688 Marcin Winotuski
+a 4708560 Bożydar Marcinkowski
+t
+s
+f 3677779
+f 6111339
+f 5953923
+f 6694810
+f 9274915
+f 4745930
+f 7856335
+f 7303694
+f 5230842
+f 2335759
+f 5499164
+f 2355319
+f 9896688
+f 5947263
+f 7785471
+f 7910503
+f 6357290
+f 8816924
+f 9885698
+f 9626148
+f 4971452
+f 8058934
+f 8212270
+f 2562862
+f 5431518
+f 8840753
+f 5056002
+f 9188109
+f 9173888
+f 9763336
+f 4708560
+f 3467215
+f 6892332
+f 7951910
+f 7280595
+f 1309377
+f 3577151
+f 3001552
+f 8333784
+f 4716382
+f 4497091
+f 6263565
+f 5733781
+f 6193716
+f 6412658
+f 5525969
+f 8761473
+f 8891161
+f 3149670
+f 4944336
+t
+s
+d 4708560
+d 4497091
+d 7280595
+d 5953923
+d 9896688
+d 9173888
+d 5499164
+d 8761473
+d 9885698
+d 7951910
+d 8333784
+d 2335759
+d 5230842
+d 6357290
+d 7910503
+d 7856335
+d 3677779
+d 2355319
+d 4971452
+d 5056002
+d 8816924
+d 8058934
+d 9188109
+d 6892332
+d 8891161
+d 5525969
+d 6694810
+d 8840753
+d 1309377
+d 7303694
+d 6263565
+d 2562862
+d 9274915
+d 5431518
+d 4716382
+d 6412658
+d 9763336
+d 8212270
+d 6111339
+d 5733781
+d 3577151
+d 5947263
+d 7785471
+d 4745930
+d 9626148
+d 6193716
+d 3467215
+d 3001552
+d 3149670
+d 4944336
+t
