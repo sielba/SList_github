@@ -65,31 +65,31 @@ bool add(int index, Data data)
 void remove(Node* node)
 {
 
-printf("bla\n");
+    printf("bla\n");
     Node* tmp;
     if (node == root)
     {
         printf("bla_root\n");
         tmp = root;
-    root = tmp->next;
-    tmp = NULL;
-    printf("bla_root 2\n");
-
+        root = tmp->next;
+        tmp = NULL;
+        printf("bla_root 2\n");
         return;
     }
-printf("bla\n");
+    printf("bla\n");
     tmp = node->next;
- printf("bla\n");
+    printf("bla\n");
     if(node->next->next != NULL)
     {
- printf("bla-if\n");
-    node->next = node->next->next;
+        printf("bla-if\n");
+        node->next = node->next->next;
     }
-    else {
+    else 
+    {
         printf("bla_else\n");
-    delete node->next;
-    delete tmp;
-}
+        delete node->next;
+        delete tmp;
+    }
     return;
 }
 
